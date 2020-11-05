@@ -1,2 +1,2 @@
-# Sample
-Tutorial on Git
+# Git tutorial
+Learn how to use Git.
